@@ -1,1 +1,1 @@
-# snek
+![snek](github-contribution-grid-snake-dark.svg)
